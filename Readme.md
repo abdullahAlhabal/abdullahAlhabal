@@ -1,6 +1,6 @@
 
 ## Abdullah Alhabal's Profile
-##### top
+###### top
 
 ## Introduction
 Welcome! I'm [_Abdullah Alhabal_](https://abdullahalhbal.bio.link/), a passionate Software Engineering student dedicated to **backend development**, **Laravel**, and web development. This repository showcases my learnings, projects, and explorations in these fields.
@@ -21,16 +21,13 @@ I'm currently delving into industry-related books to further enhance my skills a
 
 ## Skills and Expertise 🌱
 Technical Skills:
-Web Development: Laravel, HTML5, CSS3, JavaScript, Bootstrap5.
-Programming Languages: C++, Python, C#, JavaScript, PHP.
-Operating Systems: Windows.
-Typing Speed: 90 WPM.
-Language Proficiency: Medium level English.
-
-## Completed Courses and Certificates 📄
-Web Development.
-C#.
-Mean stack.
+- **Web Development** : Laravel, HTML5, CSS3, JavaScript, Bootstrap5.
+- **Programming Languages** : C++, Python, C#, JavaScript, PHP.
+- **Operating Systems** : Windows.
+- **Language Proficiency** : Medium level English.
+- **Tools** : Composer , XAMPP , Visual Studio Code , MarkDown. 
+- **Database** : MySql. 
+- **Typing Speed** : 90 WPM.<br>
 
 ## Professional Engagements and Collaborations 
 I thrive in collaborative learning environments and eagerly pursue avenues to further enhance my programming skills. I'm committed to leveraging collaborative opportunities to contribute meaningfully to the programming landscape and advance my proficiency in the field.
@@ -42,12 +39,9 @@ Connect with me on:
 - **WebSite** : [Abdullah's Website](http://abdullah.infinityfreeapp.com/) .
 - **Bio Links** : [Abdullah's Bio Links](https://abdullahalhbal.bio.link/) .
 
-
-## Explore Further
-- **Resume**: [Click here to download](./Abdullah_AlHabal_Resume_pdf.pdf).
-- **Portfolio**: [Visit my Portfolio](http://abdullah.infinityfreeapp.com/).
-<img height="auto" width="auto" alt="Abdullah AlHabal Resume" src="./Abdullah_AlHabal_Resume.png">
-
+## EXPLORE MY RESUME 
+[Resume click to download .](./AbdullahAlHabal_Resume.pdf)
+<img height="auto" width="auto" alt="Resume" src="./AbdullahAlHabal_Resume.png" >
 
 ## Social Connect
 Feel free to connect with me on various platforms:
